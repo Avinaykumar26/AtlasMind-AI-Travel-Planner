@@ -41,7 +41,7 @@ AtlasMind-AI-Travel-Planner<br>
 ├── .gitignore<br>
 │<br>
 └── .streamlit<br>
-    └── secrets.toml<br>
+    └── secrets.toml
 ## Installation
 
 Clone the repository
@@ -117,6 +117,7 @@ This project is licensed under the MIT License.
 
 
 If you want, I can also help you add a professional GitHub header section with badges (Python, Streamlit, AI, License, Stars) so the repository looks much more impressive to recruiters and developers.
+
 
 
 
