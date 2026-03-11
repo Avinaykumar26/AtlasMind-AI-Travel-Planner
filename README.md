@@ -34,12 +34,12 @@ icalendar
 
 ## Project Structure
 AtlasMind-AI-Travel-Planner<br>
-│
+│<br>
 ├── AI_travel.py<br>
 ├── requirements.txt<br>
 ├── README.md<br>
 ├── .gitignore<br>
-│
+│<br>
 └── .streamlit<br>
     └── secrets.toml<br>
 ## Installation
@@ -117,5 +117,6 @@ This project is licensed under the MIT License.
 
 
 If you want, I can also help you add a professional GitHub header section with badges (Python, Streamlit, AI, License, Stars) so the repository looks much more impressive to recruiters and developers.
+
 
 
