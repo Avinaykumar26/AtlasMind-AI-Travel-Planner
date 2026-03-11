@@ -39,8 +39,7 @@ AtlasMind-AI-Travel-Planner<br>
 ├── requirements.txt<br>
 ├── README.md<br>
 ├── .gitignore<br>
-│<br>
-└── .streamlit<br>
+│── .streamlit<br>
     └── secrets.toml
 ## Installation
 
@@ -117,6 +116,7 @@ This project is licensed under the MIT License.
 
 
 If you want, I can also help you add a professional GitHub header section with badges (Python, Streamlit, AI, License, Stars) so the repository looks much more impressive to recruiters and developers.
+
 
 
 
