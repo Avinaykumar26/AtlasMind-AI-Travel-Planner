@@ -8,6 +8,7 @@ Built using Streamlit, LangChain, and Google Gemini, AtlasMind acts as an AI-pow
 
 - Author / Developer : 
 - mail :
+- LinkedIn :
 
 ## Features
 
@@ -121,6 +122,7 @@ This project is licensed under the MIT License.
 
 
 If you want, I can also help you add a professional GitHub header section with badges (Python, Streamlit, AI, License, Stars) so the repository looks much more impressive to recruiters and developers.
+
 
 
 
