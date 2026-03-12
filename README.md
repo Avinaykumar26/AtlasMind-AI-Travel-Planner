@@ -3,7 +3,6 @@
 AtlasMind is an intelligent travel planning application that generates personalized travel itineraries using AI. The app combines large language models with real-time web search to produce structured day-by-day travel plans that can be exported directly into a calendar.
 
 Built using Streamlit, LangChain, and Google Gemini, AtlasMind acts as an AI-powered travel assistant capable of researching destinations and organizing trip schedules automatically.
-
 --
 # About
 
@@ -121,6 +120,7 @@ This project is licensed under the MIT License.
 
 
 If you want, I can also help you add a professional GitHub header section with badges (Python, Streamlit, AI, License, Stars) so the repository looks much more impressive to recruiters and developers.
+
 
 
 
