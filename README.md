@@ -4,6 +4,11 @@ AtlasMind is an intelligent travel planning application that generates personali
 
 Built using Streamlit, LangChain, and Google Gemini, AtlasMind acts as an AI-powered travel assistant capable of researching destinations and organizing trip schedules automatically.
 
+--
+# About
+
+Author / Developer : 
+
 ## Features
 
 🌍 AI-Powered Travel Planning using Gemini LLM
@@ -116,6 +121,7 @@ This project is licensed under the MIT License.
 
 
 If you want, I can also help you add a professional GitHub header section with badges (Python, Streamlit, AI, License, Stars) so the repository looks much more impressive to recruiters and developers.
+
 
 
 
