@@ -6,7 +6,7 @@ Built using Streamlit, LangChain, and Google Gemini, AtlasMind acts as an AI-pow
 
 # About
 
-- Author / Developer : 
+- Author / Developer : A VINAY KUMAR
 - mail :
 - LinkedIn :
 
@@ -122,6 +122,7 @@ This project is licensed under the MIT License.
 
 
 If you want, I can also help you add a professional GitHub header section with badges (Python, Streamlit, AI, License, Stars) so the repository looks much more impressive to recruiters and developers.
+
 
 
 
