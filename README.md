@@ -44,6 +44,8 @@ SerpAPI
 
 icalendar
 
+---
+
 ## Project Structure
 AtlasMind-AI-Travel-Planner<br>
 │<br>
