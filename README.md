@@ -4,6 +4,8 @@ AtlasMind is an intelligent travel planning application that generates personali
 
 Built using Streamlit, LangChain, and Google Gemini, AtlasMind acts as an AI-powered travel assistant capable of researching destinations and organizing trip schedules automatically.
 
+---
+
 # About
 
 - Author / Developer : A VINAY KUMAR
