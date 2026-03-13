@@ -13,6 +13,8 @@ Built using Streamlit, LangChain, and Google Gemini, AtlasMind acts as an AI-pow
 - LinkedIn :
 - Working link :
 
+---  
+
 ## Features
 
 🌍 AI-Powered Travel Planning using Gemini LLM
