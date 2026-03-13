@@ -29,6 +29,8 @@ Built using Streamlit, LangChain, and Google Gemini, AtlasMind acts as an AI-pow
 
 🖥 Interactive Web Interface built with Streamlit
 
+---
+
 ## Technology Stack
 
 Python
