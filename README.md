@@ -77,6 +77,8 @@ The application will open in your browser at:
 http://localhost:8501
 API Keys Setup
 
+---
+
 ## AtlasMind requires two API keys:
 
 Google Gemini API key
