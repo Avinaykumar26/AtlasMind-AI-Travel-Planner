@@ -48,13 +48,13 @@ icalendar
 ---
 
 ## Project Structure
-AtlasMind-AI-Travel-Planner<br>
-│<br>
-├── AI_travel.py<br>
-├── requirements.txt<br>
+- AtlasMind-AI-Travel-Planner<br>
+- │<br>
+- ├── AI_travel.py<br>
+- ├── requirements.txt<br>
 ├── README.md<br>
 ├── .gitignore<br>
-│── .streamlit\n
+│── .streamlit
 └── secrets.toml
 ## Installation
 
