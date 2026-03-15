@@ -49,7 +49,7 @@ icalendar
 
 ## Project Structure
 - AtlasMind-AI-Travel-Planner<br>
-- │<br>
+-     │<br>
 - ├── AI_travel.py<br>
 - ├── requirements.txt<br>
 ├── README.md<br>
