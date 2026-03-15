@@ -55,7 +55,7 @@ AtlasMind-AI-Travel-Planner<br>
 ├── README.md<br>
 ├── .gitignore<br>
 │── .streamlit<br>
-        └── secrets.toml
+<br>└── secrets.toml
 ## Installation
 
 Clone the repository
