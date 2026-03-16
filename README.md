@@ -54,7 +54,7 @@ AtlasMind-AI-Travel-Planner<br>
 ├── requirements.txt<br>
 ├── README.md<br>
 ├── .gitignore<br>
-│── .streamlit
+│── .streamlit<br>
 _└── secrets.toml
 ## Installation
 
