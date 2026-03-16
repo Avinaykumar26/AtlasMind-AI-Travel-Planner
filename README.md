@@ -12,7 +12,7 @@ Built using Streamlit, LangChain, and Google Gemini, AtlasMind acts as an AI-pow
 - Mail : avinaykumar2004@gmail.com
 - LinkedIn : [Avinaykumar26](https://github.com/Avinaykumar26)
 - Working link :
-- GitHub : https://github.com/Avinaykumar26
+- GitHub : [Avinaykumar26](https://github.com/Avinaykumar26)
 
 ---  
 
